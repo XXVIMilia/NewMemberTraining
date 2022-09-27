@@ -2,6 +2,7 @@ New Member Training Notes:
 Ultrasonic: D12, D13 (HCSR04: https://www.arduino.cc/reference/en/libraries/hc-sr04/)
 Servo: D10 or D11 (ServoLibrary: https://www.arduino.cc/reference/en/libraries/servo/)
 Infrared: A0, A1, A2 (AnalogRead: https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)
+Remote Control: (Complicated, I think???)
 IMU: (We'll use this later, its complicated-ish)
 Camera: (Also complicated)
 WiFi: (Even more complicated)
