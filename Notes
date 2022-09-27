@@ -11,7 +11,8 @@ MotorB: D6, D7
 
 
 
-*Speed SEEMS to use Serial (0-255)
+*Speed SEEMS to use AnalogWrite (0-255), This is the same as using PWM DutyCycle Control. 
+HAS NOTHING TO DO WITH ANALOG PINS, just stupid naming conventions
 **Direction SEEMS to use DigitalWrite(0,1)
 
 
